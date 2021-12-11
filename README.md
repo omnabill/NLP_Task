@@ -1,5 +1,9 @@
+
 # NLP_Task
 NLP_Final_Project
+
+# First  To Run the Project is developed to be run on Local Server as model is pickled and deployed as web service to run it on browser 
+# So to Run the project using local server read (Read_me.txt) file
 
 Industry Classification Problem 
 Overview
